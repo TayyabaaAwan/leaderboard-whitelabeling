@@ -1,0 +1,6 @@
+{
+    "rules": {
+      // Configure specific rules to be ignored or relaxed
+    },
+    "ignorePatterns": ["swap.tsx"] // Example: Ignoring temporary files
+  }
